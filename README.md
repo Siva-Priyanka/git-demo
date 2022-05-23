@@ -6,4 +6,8 @@ This is my first file in this repo.
 
 Here are the files in the website.
 
+<<<<<<< HEAD
 I hope this is'nt a problem
+=======
+This is bound to cause trouble
+>>>>>>> very-bad
