@@ -6,6 +6,4 @@ This is my first file in this repo.
 
 Here are the files in the website.
 
-1. index.html
-
-2. new branch created
+This is bound to cause trouble
